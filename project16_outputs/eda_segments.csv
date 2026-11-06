@@ -1,0 +1,28 @@
+dimension,segment,bookings,noshow_pct
+hotel,City Hotel,53042,30.2
+hotel,Resort Hotel,33595,23.71
+customer_type,Transient,71365,30.32
+customer_type,Transient-Party,11617,15.33
+customer_type,Group,536,9.89
+customer_type,Contract,3119,16.42
+ticket_type,Non Refund,1037,94.7
+ticket_type,Refundable,107,24.3
+ticket_type,No Deposit,85493,26.88
+booking_window,0-7 days,17855,8.51
+booking_window,181+ days,11725,39.85
+booking_window,31-90 days,22633,32.14
+booking_window,91-180 days,18190,35.07
+booking_window,8-30 days,16234,25.5
+market_segment,Offline TA/TO,13748,14.95
+market_segment,Complementary,682,12.17
+market_segment,Direct,11652,14.87
+market_segment,Corporate,4155,12.2
+market_segment,Online TA,51285,35.55
+market_segment,Groups,4891,27.21
+market_segment,Aviation,222,19.82
+market_segment,Undefined,2,100.0
+distribution_channel,TA/TO,68650,31.15
+distribution_channel,Direct,12803,14.98
+distribution_channel,GDS,178,20.22
+distribution_channel,Corporate,5001,12.82
+distribution_channel,Undefined,5,80.0

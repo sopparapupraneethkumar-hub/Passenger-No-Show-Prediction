@@ -1,0 +1,15 @@
+metric,value
+raw_rows,119390.0
+duplicate_rows,31994.0
+zero_night_rows,715.0
+no_guest_rows,180.0
+clean_rows,86637.0
+noshow_rate_pct,27.68447660930088
+train_rows,69329.0
+test_rows,17308.0
+accuracy,0.7890570834296279
+roc_auc,0.8227870073128241
+precision,0.6851426697277796
+recall,0.4370292887029289
+f1,0.5336569165921574
+baseline_accuracy,0.7238271319620985
