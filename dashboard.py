@@ -7,7 +7,7 @@ import numpy as np
 import pandas as pd
 import streamlit as st
 
-DEFAULT_DIR = "C:/Users/prane/Downloads/project16_outputs"
+DEFAULT_DIR = str(Path(__file__).resolve().parent / "project16_outputs")
 RED, BLUE, GREY = "#d62728", "#1f77b4", "#7f7f7f"
 WINDOW_ORDER = ["0-7 days", "8-30 days", "31-90 days", "91-180 days", "181+ days"]
 MONTH_NAMES = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
